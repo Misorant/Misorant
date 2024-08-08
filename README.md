@@ -1,7 +1,7 @@
-# Ilya-Koltsov
+# Ilya Koltsov
 [![Header](https://github.com/Misorant/Ilya-Koltsov/blob/main/assets/GIF_20240806_221613_297.gif)](https://www.instagram.com/kolts0v_ilya?utm_source=qr&igsh=MXhubHcxODZtb2QzMA==)
 
-## I'm a Junior QA Engeneer
+## I'm a Junior QA Engineer
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-2151C5?style=for-the-badge&logo=Jira)
@@ -16,3 +16,4 @@
 ### Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/kolts0v_ilya?utm_source=qr&igsh=MXhubHcxODZtb2QzMA==)
 [![Facebook](https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/profile.php?id=100028049004313)
+[![Discord](https://img.shields.io/badge/-Discord-5661F5?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/627611161424166936)
