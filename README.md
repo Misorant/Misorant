@@ -25,7 +25,7 @@
 
 #### Creating bug-report in Jira
 ![Photo](https://github.com/Misorant/Misorant/blob/main/assets/Bug%20Report%20Jira.png)
-#####With attached screenshots of bug-report
+##### With attached screenshots of bug-report
 ![Photo](https://github.com/Misorant/Misorant/blob/main/assets/https://github.com/Misorant/Misorant/blob/main/assets/Собаседник.png)
-#####and how it should be
+##### and how it should be
 ![Photo](https://github.com/Misorant/Misorant/blob/main/assets/https://github.com/Misorant/Misorant/blob/main/assets/Собаседник2.png)
