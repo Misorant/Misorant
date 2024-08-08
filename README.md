@@ -1,5 +1,5 @@
 # Ilya Koltsov
-[![Header](https://github.com/Misorant/Misorant/blob/main/assets/GIF_20240806_221613_297.gif](https://www.instagram.com/kolts0v_ilya?utm_source=qr&igsh=MXhubHcxODZtb2QzMA==)
+[![Header](https://github.com/Misorant/Misorant/blob/main/assets/GIF_20240806_221613_297.gif)](https://www.instagram.com/kolts0v_ilya?utm_source=qr&igsh=MXhubHcxODZtb2QzMA==)
 
 ## I'm a Junior QA Engineer
 
@@ -25,7 +25,7 @@
 
 #### Creating bug-report in Jira
 ![Photo](https://github.com/Misorant/Misorant/blob/main/assets/Bug%20Report%20Jira.png)
-With attached screenshots of bug-report
+#####With attached screenshots of bug-report
 ![Photo](https://github.com/Misorant/Misorant/blob/main/assets/https://github.com/Misorant/Misorant/blob/main/assets/Собаседник.png)
-and how it should be
+#####and how it should be
 ![Photo](https://github.com/Misorant/Misorant/blob/main/assets/https://github.com/Misorant/Misorant/blob/main/assets/Собаседник2.png)
