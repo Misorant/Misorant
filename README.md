@@ -1,5 +1,5 @@
 # Ilya Koltsov
-[![Header](https://github.com/Misorant/Ilya-Koltsov/blob/main/assets/GIF_20240806_221613_297.gif)](https://www.instagram.com/kolts0v_ilya?utm_source=qr&igsh=MXhubHcxODZtb2QzMA==)
+[![Header](https://github.com/Misorant/Misorant/blob/main/assets/GIF_20240806_221613_297.gif](https://www.instagram.com/kolts0v_ilya?utm_source=qr&igsh=MXhubHcxODZtb2QzMA==)
 
 ## I'm a Junior QA Engineer
 
@@ -17,3 +17,15 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/kolts0v_ilya?utm_source=qr&igsh=MXhubHcxODZtb2QzMA==)
 [![Facebook](https://img.shields.io/badge/-Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=FFFFFF)](https://www.facebook.com/profile.php?id=100028049004313)
 [![Discord](https://img.shields.io/badge/-Discord-5661F5?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/627611161424166936)
+
+### Work examples
+#### Creating test-cases in TestIT
+![Photo](https://github.com/Misorant/Misorant/blob/main/assets/Test-case%20TestIT.png)
+![Photo2](https://github.com/Misorant/Misorant/blob/main/assets/Test-case%20TestIT2.png)
+
+#### Creating bug-report in Jira
+![Photo](https://github.com/Misorant/Misorant/blob/main/assets/Bug%20Report%20Jira.png)
+With attached screenshots of bug-report
+![Photo](https://github.com/Misorant/Misorant/blob/main/assets/https://github.com/Misorant/Misorant/blob/main/assets/Собаседник.png)
+and how it should be
+![Photo](https://github.com/Misorant/Misorant/blob/main/assets/https://github.com/Misorant/Misorant/blob/main/assets/Собаседник2.png)
